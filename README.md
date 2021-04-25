@@ -1,0 +1,2 @@
+# TakeBlip
+Frameworks Automação TakeBlip
