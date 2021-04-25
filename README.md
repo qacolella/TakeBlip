@@ -12,6 +12,7 @@ O reuso de toda a construção da automação é 100%.
 Criados os casos de testes utilizando o comando cucumber runner featureFileTags para executar via tag de cada cenários.
 Suite de teste implementada para geração da evidências, vídeo e prints customizado no framework e report HTML onde todo o time de uma Squad consegue fazer a leitura deixando os termos técnicos e partindo para o comportamental/negócio.
 
+Download Jmeter - https://mirror.nbtelecom.com.br/apache//jmeter/binaries/apache-jmeter-5.4.1.zip - Ultima Versão
 
 Teste de Stress - Usado Jmeter para criar o projeto 
 O cenário executado foi avaliar o comportamento do login utilizando 100 usuários virtuais com 20 interações a cada 1 segundo. Utilizei o request de login com dados válidos mapeados diretamente na aplicação.
