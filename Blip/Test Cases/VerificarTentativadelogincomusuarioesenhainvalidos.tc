@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VerificarTentativadelogincomusuarioesenhainvalidos</description>
+   <name>VerificarTentativadelogincomusuarioesenhainvalidos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b1afa0-76cc-40c8-a06e-4bea7f99667d</testCaseGuid>
+</TestCaseEntity>
